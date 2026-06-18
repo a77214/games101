@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/usr/games/Assignment7/build",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/RayTracing.dir/main.cpp.o -c /usr/games/Assignment7/main.cpp",
+  "file": "/usr/games/Assignment7/main.cpp",
+  "output": "CMakeFiles/RayTracing.dir/main.cpp.o"
+},
+{
+  "directory": "/usr/games/Assignment7/build",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/RayTracing.dir/Vector.cpp.o -c /usr/games/Assignment7/Vector.cpp",
+  "file": "/usr/games/Assignment7/Vector.cpp",
+  "output": "CMakeFiles/RayTracing.dir/Vector.cpp.o"
+},
+{
+  "directory": "/usr/games/Assignment7/build",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/RayTracing.dir/Scene.cpp.o -c /usr/games/Assignment7/Scene.cpp",
+  "file": "/usr/games/Assignment7/Scene.cpp",
+  "output": "CMakeFiles/RayTracing.dir/Scene.cpp.o"
+},
+{
+  "directory": "/usr/games/Assignment7/build",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/RayTracing.dir/BVH.cpp.o -c /usr/games/Assignment7/BVH.cpp",
+  "file": "/usr/games/Assignment7/BVH.cpp",
+  "output": "CMakeFiles/RayTracing.dir/BVH.cpp.o"
+},
+{
+  "directory": "/usr/games/Assignment7/build",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/RayTracing.dir/Renderer.cpp.o -c /usr/games/Assignment7/Renderer.cpp",
+  "file": "/usr/games/Assignment7/Renderer.cpp",
+  "output": "CMakeFiles/RayTracing.dir/Renderer.cpp.o"
+}
+]
