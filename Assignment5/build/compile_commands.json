@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/usr/games/Assignment5/build",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -Wall -Wextra -pedantic -Wshadow -Wreturn-type -fsanitize=undefined -o CMakeFiles/RayTracing.dir/main.cpp.o -c /usr/games/Assignment5/main.cpp",
+  "file": "/usr/games/Assignment5/main.cpp",
+  "output": "CMakeFiles/RayTracing.dir/main.cpp.o"
+},
+{
+  "directory": "/usr/games/Assignment5/build",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -Wall -Wextra -pedantic -Wshadow -Wreturn-type -fsanitize=undefined -o CMakeFiles/RayTracing.dir/Scene.cpp.o -c /usr/games/Assignment5/Scene.cpp",
+  "file": "/usr/games/Assignment5/Scene.cpp",
+  "output": "CMakeFiles/RayTracing.dir/Scene.cpp.o"
+},
+{
+  "directory": "/usr/games/Assignment5/build",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -Wall -Wextra -pedantic -Wshadow -Wreturn-type -fsanitize=undefined -o CMakeFiles/RayTracing.dir/Renderer.cpp.o -c /usr/games/Assignment5/Renderer.cpp",
+  "file": "/usr/games/Assignment5/Renderer.cpp",
+  "output": "CMakeFiles/RayTracing.dir/Renderer.cpp.o"
+}
+]
