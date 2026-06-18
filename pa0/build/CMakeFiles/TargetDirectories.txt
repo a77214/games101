@@ -1,0 +1,3 @@
+/usr/games/pa0/build/CMakeFiles/Transformation.dir
+/usr/games/pa0/build/CMakeFiles/edit_cache.dir
+/usr/games/pa0/build/CMakeFiles/rebuild_cache.dir
