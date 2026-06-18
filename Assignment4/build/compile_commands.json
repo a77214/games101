@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/usr/games/Assignment4/build",
+  "command": "/usr/bin/g++  -isystem /usr/local/include/opencv4 -g -std=gnu++14 -o CMakeFiles/BezierCurve.dir/main.cpp.o -c /usr/games/Assignment4/main.cpp",
+  "file": "/usr/games/Assignment4/main.cpp",
+  "output": "CMakeFiles/BezierCurve.dir/main.cpp.o"
+}
+]

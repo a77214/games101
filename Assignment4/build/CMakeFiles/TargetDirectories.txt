@@ -1,0 +1,3 @@
+/usr/games/Assignment4/build/CMakeFiles/BezierCurve.dir
+/usr/games/Assignment4/build/CMakeFiles/edit_cache.dir
+/usr/games/Assignment4/build/CMakeFiles/rebuild_cache.dir
